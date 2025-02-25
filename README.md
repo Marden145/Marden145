@@ -75,9 +75,8 @@
 
 ###
 <h2>Music skills</h2>
-<p align="center">
-  <img src="https://media4.giphy.com/media/7vABiwmeaPirqyTHfu/200w.gif?cid=6c09b952ku5c0ne0vjzfuyc7zi8mgvcltswvddz8mb1130dn&ep=v1_stickers_search&rid=200w.gif&ct=s" alt="Juice WRLD" width="50" height="50" />
-</p>
+
+
 <div align="center">
   <a href="https://open.spotify.com/user/mardenpro">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=mardenpro&count=5&unique=true" alt="Spotify recently played"  />
