@@ -61,17 +61,11 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Marden145/Marden145/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/marden">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marden&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+
 
 ###
 
