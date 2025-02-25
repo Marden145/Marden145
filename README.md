@@ -1,5 +1,5 @@
 <div style="background-color: #333; color: #fff; padding: 10px; border-radius: 5px;">
-  <h2 align="left">Love programming</h2>
+  <h2 align="left">console.log('MVC is just a pattern. I'm the MVP');</h2>
 
 ###
 <div align="center">
@@ -10,7 +10,9 @@
 
 
 
+
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-644.gif"  />
+
 
 ###
 
@@ -65,12 +67,15 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+  
 </div>
 
 
 ###
-<h1>console.log('MVC is just a pattern. I'm the MVP');</h1>
+<h2>Music skills</h2>
+<p align="center">
+  <img src="https://media4.giphy.com/media/7vABiwmeaPirqyTHfu/200w.gif?cid=6c09b952ku5c0ne0vjzfuyc7zi8mgvcltswvddz8mb1130dn&ep=v1_stickers_search&rid=200w.gif&ct=s" alt="Juice WRLD" width="200" />
+</p>
 <div align="center">
   <a href="https://open.spotify.com/user/mardenpro">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=mardenpro&count=5&unique=true" alt="Spotify recently played"  />
