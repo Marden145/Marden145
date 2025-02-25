@@ -2,6 +2,11 @@
 <h2 align="left">Love programing</h2>
 
 ###
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Marden145&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marden145&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-644.gif"  />
 
@@ -56,6 +61,9 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Marden145/Marden145/output/snake.svg" alt="Snake animation" />
 
 ###
 
