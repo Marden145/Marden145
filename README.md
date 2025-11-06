@@ -74,14 +74,7 @@
 
 
 ###
-<h2>Music skills</h2>
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mardenpro">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mardenpro&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
